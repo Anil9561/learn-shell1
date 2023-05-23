@@ -6,4 +6,4 @@
 
 #how to write shell script file
 #printing 
-
+#variabiles 
